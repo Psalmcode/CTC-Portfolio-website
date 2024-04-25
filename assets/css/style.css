@@ -3079,6 +3079,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   .section-tittle h2 {
     text-align: left;
     font-size: 28px;
+    margin-bottom: -3rem !important;
   }
 }
 
@@ -3637,8 +3638,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   }
 
   .slider-area .hero__caption h1 {
-    font-size: 5.94rem;
-    margin-bottom: 1.6rem;
+    font-size: 4.85rem;
   }
 
   .logo .logo-img{
@@ -3657,7 +3657,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   }
   .wordCarousel div li {
     font-weight: 500;
-    padding: 0 10px;
+    font-size: 1.8rem;
+    padding: 10px 19px;
     height: 45px;
     margin-bottom: 45px;
     display: block;
@@ -3869,6 +3870,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   /* line 44, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_about.scss */
   .about-area .about-caption p {
     padding-right: 0px;
+    font-size: 1.4rem;
+    word-spacing: -0.2rem;
   }
 }
 
@@ -4123,6 +4126,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 .single-about .experience-desc{
   color: #aecaff;
   text-align: justify;
+  display: block;
 }
 .single-about .tittle-experience h4{
   color: #aecaff;
@@ -4187,8 +4191,11 @@ float: right;
     font-size: 13px;
   }
   .single-about .experience-desc{
-    color: #aecaff;
-    font-size: 1.2rem;
+    color: #aecaff;    
+    font-size: 1.26rem;
+    word-spacing: -0.1rem;
+    display: block;
+    width: 100%;
     text-align: justify;
   }
   #Ireland-class{
