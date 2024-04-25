@@ -4127,6 +4127,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   color: #aecaff;
   text-align: justify;
   display: block;
+  width: 100%;
 }
 .single-about .tittle-experience h4{
   color: #aecaff;
@@ -8043,5 +8044,3 @@ del {
 .switch-wrap {
   margin-bottom: 10px;
 }
-
-/*# sourceMappingURL=style.css.map */
